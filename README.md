@@ -43,7 +43,7 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminyasar004&layout=compact&theme=tokyonight" alt="saminyasar004" /></p>
 <br />
-<p><a target="_blank" href="https://saminyasar.netlify.app/"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=saminyasar004&repo=saminyasar&theme=tokyonight" alt="saminyasar004" /></p>
+<p><a target="_blank" href="https://saminyasar.netlify.app/"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=saminyasar004&repo=saminyasar&theme=tokyonight" alt="saminyasar004" /></a></p>
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saminyasar004&show_icons=true&theme=tokyonight" alt="saminyasar004" /></p>
 <br />
