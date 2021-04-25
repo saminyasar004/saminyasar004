@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaminYa01891649?label=saminyasar004&style=social)](https://twitter.com/SaminYa01891649/)
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
 <a href="https://dev.to/saminyasar004">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samin Yasar's DEV Community Profile" height="10" width="10">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samin Yasar's DEV Community Profile" height="30" width="30">
 </a>
 
 ## I'm a Student, Programming Enthusiast , Web Designer & Developer!
