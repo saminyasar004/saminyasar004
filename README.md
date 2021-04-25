@@ -45,6 +45,8 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saminyasar004&show_icons=true&theme=tokyonight" alt="saminyasar004" /></p>
 <br />
+<p><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=saminyasar004&repo=saminyasar&theme=tokyonight" alt="saminyasar004" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saminyasar004&theme=tokyonight" alt="saminyasar004" /></p>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saminyasar004&theme=tokyonight" alt="saminyasar004" /></a></p>
