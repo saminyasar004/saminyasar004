@@ -5,6 +5,10 @@
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaminYa01891649?label=saminyasar004&style=social)](https://twitter.com/SaminYa01891649/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat" alt="saminyasar004" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saminyasar004" alt="saminyasar004" /></a> </p>
+
 ## I'm a Student, Programming Enthusiast , Web Designer & Developer!
 I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, JQuery, PHP, Python.
 
@@ -14,11 +18,9 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 - 🤔 I’m looking for help with Programmer.
 - 💬 Ask me about anything
 - 😄 Pronouns: samin
-- ⚡ Fun fact: I hate Fix Bug on my progaramm.
+- ⚡ Fun fact: I hate Fix Bug on my progaram.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat" alt="saminyasar004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saminyasar004" alt="saminyasar004" /></a> </p>
 
 ### Connect with me:
 
