@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaminYa01891649?label=saminyasar004&style=social)](https://twitter.com/SaminYa01891649/)
+[![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat" alt="saminyasar004" /> </p>
 
