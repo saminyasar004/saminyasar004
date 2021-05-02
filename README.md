@@ -3,6 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/saminyasar004/)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/saminyasar04/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaminYa01891649?label=saminyasar004&style=social)](https://twitter.com/SaminYa01891649/)
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-blue)](https://stackoverflow.com/users/14735945/samin-yasar)
