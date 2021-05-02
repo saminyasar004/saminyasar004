@@ -11,12 +11,12 @@
 I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, JQuery, PHP, Python.
 
 - 🔭 I’m currently working on Self Taught Programmer.
-- 🌱 I’m currently learning NodeJS.
+- 🌱 I’m currently learning everything about Full Stack Web Development.
 - 👯 I’m looking to collaborate on JavaScript Enthusiast.
 - 🤔 I’m looking for help with Programmer.
 - 💬 Ask me about anything
-- 😄 Pronouns: samin
-- ⚡ Fun fact: I hate Fix Bug on my progaram.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I hate Fix Bug on my code.
 
 ### Connect with me:
 
