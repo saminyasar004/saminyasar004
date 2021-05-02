@@ -5,9 +5,9 @@
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/SaminYa01891649/)
-[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-blue)](https://stackoverflow.com/users/14735945/samin-yasar)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-brightgreen)](https://stackoverflow.com/users/14735945/samin-yasar)
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
+[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 
 ## I'm a Student, Programming Enthusiast , Web Designer & Developer!
 I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, JQuery, PHP, Python.
