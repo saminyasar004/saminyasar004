@@ -1,4 +1,4 @@
-## Hi there, I'm [Samin Yasar][website] 👋
+## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👋
 ## A passionate self-aught programmer from Bangladesh.
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
