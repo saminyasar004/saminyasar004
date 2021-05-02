@@ -1,11 +1,12 @@
-## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👋
+## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## A passionate self-aught programmer from Bangladesh.
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
-[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/saminyasar004/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaminYa01891649?label=saminyasar004&style=social)](https://twitter.com/SaminYa01891649/)
+[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-blue)](https://stackoverflow.com/users/14735945/samin-yasar)
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
-
 
 ## I'm a Student, Programming Enthusiast , Web Designer & Developer!
 I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, JQuery, PHP, Python.
