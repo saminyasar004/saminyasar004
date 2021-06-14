@@ -19,7 +19,7 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 - 🤔 I’m looking for help with Programmer.
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate Fix Bug on my code.
+- ⚡ Fun fact: 👕 T-Shirt Lover.
 
 ### Connect with me:
 
