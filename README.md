@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
 [![Facebook Page](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar04/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar004/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/saminyasar004/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-brightgreen)](https://stackoverflow.com/users/14735945/samin-yasar)
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
