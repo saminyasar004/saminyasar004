@@ -61,6 +61,6 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 <br />
 
 [website]: https://saminyasar.netlify.app/
-[twitter]: https://twitter.com/SaminYa01891649/
+[twitter]: https://twitter.com/saminyasar004/
 [instagram]: https://www.instagram.com/saminyasar04/
 [facebook]: https://www.facebook.com/saminyasar004/
