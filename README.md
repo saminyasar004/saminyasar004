@@ -11,7 +11,7 @@
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 
 ## I'm a Student, Programming Enthusiast , Web Designer & Developer!
-I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, JQuery, PHP, Python.
+I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, PHP & C.
 
 - 🔭 I’m currently working on Self Taught Programmer.
 - 🌱 I’m currently learning everything about Full Stack Web Development.
@@ -41,7 +41,7 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"           alt="bootstrap" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img alt="Node.js" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /></a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
