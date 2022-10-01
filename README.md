@@ -24,10 +24,11 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 
 ### Connect with me:
 
-[<img align="left" alt="saminyasar |  portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="saminyasar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="saminyasar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="saminyasar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="saminyasar004 |  Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="saminyasar004 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="saminyasar004 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saminyasar004 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="saminyasar004 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://dev.to/saminyasar004">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samin Yasar's DEV Community Profile" height="30" width="30">
 </a>
@@ -62,6 +63,7 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 <br />
 
 [website]: https://saminyasar.netlify.app/
+[linkedin]: https://linkedin.com/in/saminyasar2004/
 [twitter]: https://twitter.com/saminyasar004/
 [instagram]: https://www.instagram.com/saminyasar04/
 [facebook]: https://www.facebook.com/saminyasar004/
