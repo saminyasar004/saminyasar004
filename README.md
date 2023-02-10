@@ -2,7 +2,7 @@
 ## A passionate self-taught programmer from Bangladesh.
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-brightgreen)](https://linkedin.com/in/saminyasar2004/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-brightgreen)](https://linkedin.com/in/saminyasar04/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/saminyasar004/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
 [![Facebook Page](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
