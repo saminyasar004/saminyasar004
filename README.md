@@ -5,11 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-brightgreen)](https://linkedin.com/in/saminyasar04/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/saminyasar004/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
-[![Facebook Page](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar004/)
+[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-brightgreen)](https://stackoverflow.com/users/14735945/samin-yasar)
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
-[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 [![wakatime](https://wakatime.com/badge/user/d588c021-fa55-48f4-bb5b-e7283674eea2.svg?style=flat)](https://wakatime.com/@d588c021-fa55-48f4-bb5b-e7283674eea2)
 
 
@@ -65,7 +64,7 @@ I am a student of HSC in Khilgaon Government College in Bangladesh. I like to le
 <br />
 
 [website]: https://saminyasar.netlify.app/
-[linkedin]: https://linkedin.com/in/saminyasar2004/
+[linkedin]: https://linkedin.com/in/saminyasar04/
 [twitter]: https://twitter.com/saminyasar004/
-[instagram]: https://www.instagram.com/saminyasar04/
+[instagram]: https://www.instagram.com/saminyasar004/
 [facebook]: https://www.facebook.com/saminyasar004/
