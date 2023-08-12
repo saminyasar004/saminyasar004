@@ -1,5 +1,9 @@
 ## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## A passionate self-taught programmer from Bangladesh.
+A passionate 19-year-old programmer with a strong focus on JavaScript development. I thrive in the JavaScript ecosystem and have hands-on experience with various technologies such as React.js, Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Tailwind CSS, and SCSS.
+
+I am currently honing my skills in full-stack web development, aiming to become a well-rounded developer capable of creating robust and scalable applications. I enjoy tackling complex problems and finding innovative solutions through clean and efficient code.
+With a keen eye for detail and a dedication to delivering high-quality work, I strive to create user-friendly and intuitive web experiences. I am constantly exploring new technologies and staying up-to-date with the latest industry trends to ensure that my projects are built using the best practices.
+I am excited to collaborate with like-minded individuals and contribute to meaningful projects. If you have any exciting opportunities or would like to connect, feel free to reach out. Let's build something amazing together! 🚀
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-brightgreen)](https://linkedin.com/in/saminyasar04/)
@@ -11,11 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
 [![wakatime](https://wakatime.com/badge/user/d588c021-fa55-48f4-bb5b-e7283674eea2.svg?style=flat)](https://wakatime.com/@d588c021-fa55-48f4-bb5b-e7283674eea2)
 
-
-## I'm a Student, Programming Enthusiast , Web Designer & Developer!
-I am a student of HSC in Khilgaon Government College in Bangladesh. I like to learn programming. I have skils on HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, PHP & C.
-
-- 🔭 I’m currently working on Self Taught Programmer.
+- 🔭 I’m currently working on Personal Side Project Development.
 - 🌱 I’m currently learning everything about Full Stack Web Development.
 - 👯 I’m looking to collaborate on JavaScript Enthusiast.
 - 🤔 I’m looking for help with Programmer.
