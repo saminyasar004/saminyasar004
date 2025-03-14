@@ -1,4 +1,4 @@
-## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ## Hi there, I'm [Samin Yasar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 A passionate 19-year-old programmer with a strong focus on JavaScript development. I thrive in the JavaScript ecosystem and have hands-on experience with various technologies such as React.js, Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Tailwind CSS, and SCSS.
 
 I am currently honing my skills in full-stack web development, aiming to become a well-rounded developer capable of creating robust and scalable applications. I enjoy tackling complex problems and finding innovative solutions through clean and efficient code.
@@ -67,4 +67,47 @@ I am excited to collaborate with like-minded individuals and contribute to meani
 [linkedin]: https://linkedin.com/in/saminyasar04/
 [twitter]: https://twitter.com/saminyasar004/
 [instagram]: https://www.instagram.com/saminyasar004/
-[facebook]: https://www.facebook.com/saminyasar004/
+[facebook]: https://www.facebook.com/saminyasar004/ -->
+
+
+### Hi there, I'm Samin Yasar! 👋
+
+I'm a **passionate self-taught Frontend-Focused Full-Stack Web App Developer** who loves building elegant and scalable applications. With a deep enthusiasm for problem-solving and a keen eye for detail, I strive to create web applications that are both efficient and visually appealing. I specialize in modern web technologies, writing clean and maintainable code, and continuously improving performance to enhance user experiences. 
+
+I enjoy collaborating with other developers, contributing to open-source projects, and staying updated with the latest advancements in web development. My goal is to build innovative solutions that make an impact while constantly pushing the boundaries of what’s possible with technology.
+
+
+### 🚀 Tech Stack & Skills:
+- **Frontend:** JavaScript (ES6+), TypeScript, HTML, CSS, SCSS, Tailwind CSS, ShadCN UI
+- **Backend:** Node.js, Express, Fastify, NestJS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Others:** Git, GitHub, Docker, Linux, REST APIs, GraphQL
+
+### 🌱 What I'm Learning:
+Currently exploring **high-performance backend systems, advanced database optimizations, and SaaS product development.**
+
+### 📊 GitHub Stats & Insights:
+![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saminyasar004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saminyasar004&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saminyasar004&theme=radical)
+
+[![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20Views&color=brightgreen&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/saminyasar004?style=social)](https://github.com/saminyasar004?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/saminyasar004?style=social)](https://github.com/saminyasar004?tab=repositories)
+[![wakatime](https://wakatime.com/badge/user/d588c021-fa55-48f4-bb5b-e7283674eea2.svg?style=flat)](https://wakatime.com/@d588c021-fa55-48f4-bb5b-e7283674eea2)
+
+
+### 📫 Connect with Me:
+- **GitHub:** [@saminyasar004](https://github.com/saminyasar004)
+- **LinkedIn:** [Samin Yasar](https://linkedin.com/in/saminyasar04)
+- **Twitter:** [@saminyasar004](https://twitter.com/saminyasar004)
+- **Instagram:** [@saminyasar004](https://instagram.com/saminyasar004)
+- **Facebook:** [@saminyasar004](https://facebook.com/saminyasar004)
+- **Portfolio:** [Samin Yasar](https://saminyasar.netlify.app)
+
+
+
+⚡ **Fun Fact:** I love contributing to open-source projects and experimenting with new technologies! 🚀
+
