@@ -111,3 +111,6 @@ Currently exploring **high-performance backend systems, advanced database optimi
 
 ⚡ **Fun Fact:** I love contributing to open-source projects and experimenting with new technologies! 🚀
 
+Happy Coding... 🚀
+
+ 🇵🇸 #FreePalestine
